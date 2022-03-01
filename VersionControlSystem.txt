@@ -51,14 +51,20 @@ output___staging area te aslo
 
 4. git log (use kore sure hobo koto time ,date e add (commit) korlam)
 single line e dekte chaile 
-git log --oneline
+.........git log --oneline
 
 change anar por initial obosthay ki cilo seta check korte chaile 
-git show ...number
+
+.........git show ...number
+
 
 oi stage e jete chaile 
 
-git checkout
+........git checkout ....number 
+
+undo korte chaile 
+
+.......git switch -
 
 
 
@@ -67,6 +73,7 @@ ______staging area te na niyeo amader jodi sob file track thake
 tahole single command use korte pari_____________
 staging area te sob file anbe plus commit korbe :
 ____________: : git commit -am 'Updated all file in single command'  : :
+
 
 
 analyzed to 47 min
