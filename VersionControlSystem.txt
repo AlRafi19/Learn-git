@@ -49,10 +49,24 @@ output___staging area te aslo
 ...commit korte 
 3. git commit -m 'added style.css'
 
-4. git log (use kore sure hobo koto time ,date e add korlam)
+4. git log (use kore sure hobo koto time ,date e add (commit) korlam)
+single line e dekte chaile 
+git log --oneline
+
+change anar por initial obosthay ki cilo seta check korte chaile 
+git show ...number
+
+oi stage e jete chaile 
+
+git checkout
 
 
 
 ___________imp
-staging area te sob file anbe plus commit korbe 
-git commit -am 'Updated all file in single command'
+______staging area te na niyeo amader jodi sob file track thake
+tahole single command use korte pari_____________
+staging area te sob file anbe plus commit korbe :
+____________: : git commit -am 'Updated all file in single command'  : :
+
+
+analyzed to 47 min
