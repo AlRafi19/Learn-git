@@ -1,0 +1,52 @@
+
+(Working Dir                Staging area                          commit(saved) 
+version)
+ex:===========              ==============                         =============
+index.html,style.css        git add fileName                       git commit-m  
+'Message' 
+main.js  git add . (.means all to staged {modified & new file})    git commit -am **
+
+
+1. Some important command
+      git init
+      git status (see files in staging area)
+      
+      git log --online (show Log with commit and message)
+      git show commit_version
+      git reset
+      git reset --hard
+      git checkout version
+      git clone
+      git push
+
+ex: 3.git add index.html 
+4. git commit -m 'added file_name'
+then
+checking 
+....git status
+
+// style.css file take add korbo(manage korabo) (version constrol system diye) VCS e
+
+flow->style.css ke staging area te ante 
+1.git add style.css(staging area te nite)
+
+2. git status (Add holo kina)
+output___staging area te aslo
+
+...commit korte 
+3. git commit -m 'added style.css'
+
+4. git log (use kore sure hobo koto time ,date e add korlam)
+
+
+
+flow->main.js ke staging area te ante 
+1.git add main.js(staging area te nite)
+
+2. git status (Add holo kina)
+output___staging area te aslo
+
+...commit korte 
+3. git commit -m 'added style.css'
+
+4. git log (use kore sure hobo koto time ,date e add korlam)
