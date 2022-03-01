@@ -50,3 +50,9 @@ output___staging area te aslo
 3. git commit -m 'added style.css'
 
 4. git log (use kore sure hobo koto time ,date e add korlam)
+
+
+
+___________imp
+staging area te sob file anbe plus commit korbe 
+git commit -am 'Updated all file in single command'
