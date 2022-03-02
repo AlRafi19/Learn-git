@@ -1,2 +1,2 @@
 console.log('check me');
-console.log('Hello Frined')
+console.log('Hello Frined ! How are you')
