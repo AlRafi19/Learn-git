@@ -92,3 +92,21 @@ undo korte chaile
 --------git reset --hard(modified ke unmodified korte Plus code soho reset);
 
 
+// Branching 
+kon brach e asi check korte 
+
+git branch
+
+// alada alada branch kore kaj korle 
+kaj subhida hoy
+
+. alada branch create kore
+sei brach e kaj kore main brach er sathe merge korbo
+
+// to create a new branch
+git branch new branch  (branch name)
+
+
+main branch theke onno branch e shift hote
+
+git checkout (branch name)
