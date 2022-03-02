@@ -49,9 +49,11 @@ output___staging area te aslo
 ...commit korte 
 3. git commit -m 'added style.css'
 
+
 4. git log (use kore sure hobo koto time ,date e add (commit) korlam)
 single line e dekte chaile 
 .........git log --oneline
+
 
 change anar por initial obosthay ki cilo seta check korte chaile 
 
