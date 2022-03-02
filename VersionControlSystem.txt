@@ -81,30 +81,14 @@ single line e dekte chaile
 ------------------------------------------------------------------------------------------------------
 
 
+// Push korte chaile git e
 
-
-
-
--------------------Ki ki modification hoyese seta dekte chaile------------------
-
-
+git push -u origin
 
 
 undo korte chaile 
-
 .......git switch -
-
---------git reset (modified ke unmodified korte)
+--------git reset (modified ke unmodified korte)(staging area te kisu thakle seta remove hobe)
 --------git reset --hard(modified ke unmodified korte Plus code soho reset);
 
 
-
-___________imp
-______staging area te na niyeo amader jodi sob file track thake
-tahole single command use korte pari_____________
-staging area te sob file anbe plus commit korbe :
-____________: : git commit -am 'Updated all file in single command'  : :
-
-
-
-analyzed to 47 min
