@@ -106,6 +106,10 @@ sei brach e kaj kore main brach er sathe merge korbo
 // to create a new branch
 git branch new branch  (branch name)
 
+// jekono branch theke main branch e jete hole
+
+
+
 
 main branch theke onno branch e shift hote
 
