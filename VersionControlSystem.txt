@@ -46,13 +46,46 @@ flow->main.js ke staging area te ante
 2. git status (Add holo kina)
 output___staging area te aslo
 
-...commit korte 
-3. git commit -m 'added style.css'
+3. commit korte (single file ke stage hote commit korte)
 
+--------------->git commit -m 'added style.css'
+
+
+-----------------Multiple file modify kore eksathe staging area theke commit korte gele-----------------
+
+(Staging area te na niyeo amader jodi sob file track thake
+
+tahole single command use korte pari commit stage e nite)
+
+Staging area te sob file anbe plus commit korbe :
+ 
+ ------------------->git commit -am 'Updated all file in single command'
+--------------------------------------------------------------------------------------------------
 
 4. git log (use kore sure hobo koto time ,date e add (commit) korlam)
 single line e dekte chaile 
-.........git log --oneline
+------------------------------> git log --oneline
+
+---------------------------------------------------------------------------------------------------
+
+-------------------initial obosthay kon state e cilo kono file seta check korte chaile--------------
+
+----------------->git show ...number
+
+-----------------------------------------------------------------------------------------------------
+
+-------------------------------Initial state e kono file ke nite--------------------------------------
+
+---------------------------->git checkout ....number
+
+------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+-------------------Ki ki modification hoyese seta dekte chaile------------------
 
 
 change anar por initial obosthay ki cilo seta check korte chaile 
