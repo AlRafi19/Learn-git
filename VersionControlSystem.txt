@@ -108,7 +108,14 @@ git branch new branch  (branch name)
 
 // jekono branch theke main branch e jete hole
 
+-git checkout main
 
+then merge 
+
+-git merge (je branch merge korbo seta)
+
+then 
+git push -u origin main
 
 
 main branch theke onno branch e shift hote
